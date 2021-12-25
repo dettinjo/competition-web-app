@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "admin",
+        "MONGO_PASSWORD": "AfQ0SbaQR1B7DXjG",
+        "MONGO_DB": "competition-web-app"
+    }
+}

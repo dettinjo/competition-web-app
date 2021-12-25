@@ -1,0 +1,19 @@
+{
+    "name": "competition-web-app2",
+    "version": "1.0.0",
+    "description": "Internet Technologie Assignment 2",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "frontend-install": "npm install",
+        "backend-install": "npm install",
+        "frontend": "cd frontend/ && npm install && npm run dev",
+        "backend": "cd backend/ && npm install && npm start",
+        "start": "concurrently \"npm run backend\" && \"npm run frontend\"",
+        "heroku-postbuild": "concurrently \"npm run backend\" \"npm run frontend\""
+    },
+    "author": "Joel Dettinger",
+    "license": "ISC",
+    "dependencies": {
+        "concurrently": "^6.4.0"
+    }
+}
