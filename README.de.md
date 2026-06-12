@@ -1,8 +1,14 @@
+<!-- portfolio:date=2021-12-01 -->
+
 [Deutsch](README.de.md) · [English](README.md)
 
 # Wettbewerbs-Webanwendung
 
 Eine umfassende Full-Stack-Plattform für die Verwaltung von Online-Programmierwettbewerben. Sie bietet Teilnehmern eine reibungslose Möglichkeit, ihre Beiträge einzureichen, Juroren können Einreichungen bewerten, und Administratoren verwalten das gesamte System. Das Projekt entstand als Universitätsaufgabe an der University of the West of Scotland und demonstriert ein breites Full-Stack-Kompetenzspektrum.
+
+<p align="center">
+  <img src="docs/docker.svg" alt="Docker" width="170" />
+</p>
 
 ### Hauptfunktionen
 
