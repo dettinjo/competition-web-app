@@ -7,7 +7,7 @@
 Eine umfassende Full-Stack-Plattform für die Verwaltung von Online-Programmierwettbewerben. Sie bietet Teilnehmern eine reibungslose Möglichkeit, ihre Beiträge einzureichen, Juroren können Einreichungen bewerten, und Administratoren verwalten das gesamte System. Das Projekt entstand als Universitätsaufgabe an der University of the West of Scotland und demonstriert ein breites Full-Stack-Kompetenzspektrum.
 
 <p align="center">
-  <img src="docs/docker.svg" alt="Docker" width="170" />
+  <img src="docs/react.svg" alt="React" width="170" />
 </p>
 
 ### Hauptfunktionen
