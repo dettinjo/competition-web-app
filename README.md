@@ -1,8 +1,14 @@
+<!-- portfolio:date=2021-12-01 -->
+
 [English](README.md) · [Deutsch](README.de.md)
 
 # Competition Web App
 
 A comprehensive full-stack platform built to manage online coding competitions. It provides a seamless experience for participants to submit their work, for judges to review and rate entries, and for administrators to manage the entire ecosystem. Developed as a university assignment at the University of the West of Scotland, this project demonstrates a full-stack skill set integrating a modern frontend, a robust backend API, and containerised deployment.
+
+<p align="center">
+  <img src="docs/docker.svg" alt="Docker" width="170" />
+</p>
 
 ### Key Features
 
